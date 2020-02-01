@@ -1,3 +1,3 @@
 # Compiler optimization
 
-- http://tvm.d2l.ai/index.html
+- Dive into Deep Learning Compiler http://tvm.d2l.ai/index.html
